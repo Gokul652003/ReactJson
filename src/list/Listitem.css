@@ -1,0 +1,11 @@
+.list-title{
+    display: flex;
+    justify-content: space-between;
+}
+.list-title label{
+    color: blue;
+    margin-right: 30px;
+    margin-top: 40px;
+
+    align-items: center;
+}
